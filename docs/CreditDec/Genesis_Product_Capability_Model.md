@@ -1,7 +1,7 @@
 # Genesis
 ## Product Capability Model
 
-**Purpose:** First-principles decomposition of the Decision Engineering Platform into durable product capabilities. No FICO references, no release numbers, no implementation technology.
+**Purpose:** First-principles decomposition of the Decision Engineering Platform into durable product capabilities.
 
 ---
 
@@ -358,4 +358,4 @@ Platform Operations & Administration
 
 # Next Step
 
-This model is deliberately free of FICO references, release numbers and implementation technology. The next step is a **coverage challenge**: run the SA/SME FICO workshop material against these eight capabilities to confirm every underlying business need is either represented here or explicitly and consciously excluded — not silently reverse-engineered in.
+The next step is a **coverage challenge**: run the SA/SME  workshop material against these eight capabilities to confirm every underlying business need is either represented here or explicitly and consciously excluded  - not silently reverse-engineered in.

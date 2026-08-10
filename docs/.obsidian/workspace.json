@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wip/poc-card-6A-funds-coverage.md",
+                "file": "CreditDec/Genesis_Coverage_Challenge.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "poc-card-6A-funds-coverage"
+              "title": "Genesis_Coverage_Challenge"
             }
           }
         ]
@@ -190,8 +190,11 @@
   },
   "active": "0d7de92b98227658",
   "lastOpenFiles": [
-    "wip/poc-card-6B-cib-lending.md",
+    "CreditDec/Genesis_Ideas_Backlog.md",
+    "CreditDec/Project_Genesis.md",
+    "CreditDec/Genesis_Product_Capability_Model.md",
     "wip/poc-card-6A-funds-coverage.md",
+    "wip/poc-card-6B-cib-lending.md",
     "wip/genai-poc-feasibility-report-v2.md",
     "wip/concept-6-genai-stress-scenario-discovery.md"
   ]
