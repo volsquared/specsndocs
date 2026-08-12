@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CreditDec/Genesis_Coverage_Challenge.md",
+                "file": "wip/poc-card-6B-cib-lending.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Genesis_Coverage_Challenge"
+              "title": "poc-card-6B-cib-lending"
             }
           }
         ]
@@ -190,10 +190,27 @@
   },
   "active": "0d7de92b98227658",
   "lastOpenFiles": [
+    "CreditDec/Decision_Engineering_Platform_Roadmap_Overview.pptx",
+    "CreditDec/Decision_Engineering_Platform_Roadmap_Overview(3).pptx",
+    "CreditDec/Genesis_Iterative_Rollout_Roadmap.md",
+    "wip/poc-card-6A-funds-coverage.md",
+    "CreditDec/Genesis_Iterative_Rollout_Roadmap(1).md",
+    "CreditDec/Genesis_Coverage_Challenge.md",
+    "CreditDec/Coverage/Genesis_Coverage_Challenge.md",
+    "CreditDec/Coverage/Genesis_Ideas_Backlog.md",
+    "CreditDec/Coverage",
+    "CreditDec/New folder",
+    "CreditDec/capabilities/WorkBench/Genesis_Deep_Dive_Strategy_Engineering_Workbench(1).md",
+    "CreditDec/capabilities/StretegyTransformation/Genesis_Deep_Dive_Strategy_Transformation.md",
+    "CreditDec/capabilities/StretegyTransformation",
+    "CreditDec/capabilities/New folder",
+    "CreditDec/capabilities/ReplaySimulation/Genesis_Deep_Dive_Replay_Simulation_Experimentation.md",
+    "CreditDec/capabilities/ReplaySimulation/Genesis_Deep_Dive_Replay_Simulation_Experimentation(1).md",
+    "CreditDec/capabilities/ReplaySimulation",
+    "CreditDec/capabilities/WorkBench/Genesis_Deep_Dive_Strategy_Engineering_Workbench.md",
     "CreditDec/Genesis_Ideas_Backlog.md",
     "CreditDec/Project_Genesis.md",
     "CreditDec/Genesis_Product_Capability_Model.md",
-    "wip/poc-card-6A-funds-coverage.md",
     "wip/poc-card-6B-cib-lending.md",
     "wip/genai-poc-feasibility-report-v2.md",
     "wip/concept-6-genai-stress-scenario-discovery.md"

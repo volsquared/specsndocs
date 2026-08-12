@@ -202,7 +202,7 @@ Platform Operations & Administration
 - Nothing reaches production without a complete, inspectable evidence trail from draft through approval.
 - Promotion gates are enforced by the platform, not advisory guidance engineers can bypass under pressure.
 - Evidence is generated automatically from execution and replay artefacts, not manually assembled after the fact.
-- Approval and promotion authority map directly onto a specific Git commit or tag — there is no ambiguity about which immutable engineering state was actually approved.
+- Approval and promotion authority attach to the exact immutable strategy artifact identified by its integrity hash — traceable back to the source commit and build provenance that produced it, but binding to the artifact itself. A rebuild from the same commit producing a different hash is a distinct, unapproved artifact.
 
 **Outcome:** Every binding decision is explainable and every strategy change is defensible, on demand, without special preparation.
 
