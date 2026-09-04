@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wip/poc-card-6A-funds-coverage.md",
+                "file": "wip/poc-card-6B-cib-lending.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "poc-card-6A-funds-coverage"
+              "title": "poc-card-6B-cib-lending"
             }
           }
         ]
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 593.5
+    "width": 300
   },
   "right": {
     "id": "7d6350d8b15af154",
@@ -190,41 +190,30 @@
   },
   "active": "0d7de92b98227658",
   "lastOpenFiles": [
+    "CreditDec/~$Decision_Engineering_Platform_Roadmap_Overview.pptx",
+    "CreditDec/Decision_Engineering_Platform_Roadmap_Overview.pptx",
+    "CreditDec/Decision_Engineering_Platform_Roadmap_Overview(3).pptx",
+    "CreditDec/Genesis_Iterative_Rollout_Roadmap.md",
+    "wip/poc-card-6A-funds-coverage.md",
+    "CreditDec/Genesis_Iterative_Rollout_Roadmap(1).md",
+    "CreditDec/Genesis_Coverage_Challenge.md",
+    "CreditDec/Coverage/Genesis_Coverage_Challenge.md",
+    "CreditDec/Coverage/Genesis_Ideas_Backlog.md",
+    "CreditDec/Coverage",
+    "CreditDec/New folder",
+    "CreditDec/capabilities/WorkBench/Genesis_Deep_Dive_Strategy_Engineering_Workbench(1).md",
+    "CreditDec/capabilities/StretegyTransformation/Genesis_Deep_Dive_Strategy_Transformation.md",
+    "CreditDec/capabilities/StretegyTransformation",
+    "CreditDec/capabilities/New folder",
+    "CreditDec/capabilities/ReplaySimulation/Genesis_Deep_Dive_Replay_Simulation_Experimentation.md",
+    "CreditDec/capabilities/ReplaySimulation/Genesis_Deep_Dive_Replay_Simulation_Experimentation(1).md",
+    "CreditDec/capabilities/ReplaySimulation",
+    "CreditDec/capabilities/WorkBench/Genesis_Deep_Dive_Strategy_Engineering_Workbench.md",
+    "CreditDec/Genesis_Ideas_Backlog.md",
+    "CreditDec/Project_Genesis.md",
+    "CreditDec/Genesis_Product_Capability_Model.md",
     "wip/poc-card-6B-cib-lending.md",
     "wip/genai-poc-feasibility-report-v2.md",
-    "wip/poc-card-6A-funds-coverage.md",
-    "wip/concept-6-genai-stress-scenario-discovery.md",
-    "Specs/Chakra_Lean_Entry_Baton_V1.md",
-    "Specs/Volatility_Calibrator_V2_2_SRS.md",
-    "Specs/Trend_Wave_State_Engine_V2.md",
-    "Specs/MA_Trend_Wave_State_Engine_Design_Note.md",
-    "Specs/LaunchPad_V3_Revised_Spec.md",
-    "Specs/LaunchPad_RestingLiquidity_Spec.md",
-    "Specs/LaunchPad_NearbySkew_SpecFinal.md",
-    "Specs/LaunchPad_Functional_Specification.pdf",
-    "Specs/LaunchPad_Adaptive_Highlighting_Proposal.md",
-    "Specs/K_Period_OHLC_Relative_Position_Tracker_V1.pdf",
-    "Specs/K_Period_OHLC_Relative_Position_Tracker_V1.md",
-    "Specs/K_Period_OHLC_Relative_Position_Tracker_V1.html",
-    "Specs/K_HTF_Volume_Structure_Producer_V1_FINAL_SRS_v1_3.md",
-    "Specs/K_CloseProtect_DeltaSMA_BodyPct_Decision.md",
-    "Specs/K_Candle_Baton_Manager_V1_Design.md",
-    "Specs/HTF_Structure_Interaction_Model_V1.md",
-    "Specs/GBX_OR_Chop_State_Engine_V3.md",
-    "Specs/desktop.ini",
-    "Specs/Chakra_TriggerStr_Interface_Contract.md",
-    "Specs/Chakra_TradePol_StopManager_Interface_Contract.md",
-    "Specs/Chakra_TradePol_PositionSizer_Interface_Contract.md",
-    "Specs/Chakra_TradePol_HTF_HVN_Stop_Candidate_V1.md",
-    "Specs/Chakra_TradePol_EntryGate_Interface_Contract.md",
-    "Specs/Chakra_TradePol_EntryComposer_Interface_Contract.md",
-    "Specs/Chakra_Sensor_MA_Distance_ATR_V1.md",
-    "Specs/Chakra_Sensor_Interface_Contract.md",
-    "Specs/BHEESHM_PHASE2_RUNTIME_PROFILES_PROPOSAL.pdf",
-    "Specs/BHEESHM_PHASE2_RUNTIME_PROFILES_PROPOSAL.html",
-    "Specs",
-    "Untitled.base",
-    "Untitled",
-    "CreditDec/~$Decision_Engineering_Platform_Roadmap_Overview.pptx"
+    "wip/concept-6-genai-stress-scenario-discovery.md"
   ]
 }
